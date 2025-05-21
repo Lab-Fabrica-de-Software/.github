@@ -1,4 +1,4 @@
-![Image](https://github.com/user-attachments/assets/5bc230ff-8be7-4ad5-9e21-bbbfbf679133)
+![Image](https://github.com/user-attachments/assets/3bb75c06-abda-42b9-b847-8e97bb29ec3c)
 
 
 # 🏭 Laboratório Fábrica de Software - FATEC
