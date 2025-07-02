@@ -35,4 +35,4 @@ Nascido da visão do professor **Glauco Todesco**, o laboratório começou atend
      - Participar do [BootCamp Dev Jr](https://bootcampdevjr.com/).
 - 👉 **Precisa de um projeto?** Requisite nossa ajuda para desenvolver soluções para sua necessidade.
 
-[🚀 Junte-se a nós](#) | [📢 Requisite um projeto](#)
+[🚀 Junte-se a nós](https://www.linkedin.com/company/laboratório-fábrica-de-software) | [📢 Requisite um projeto](#)
